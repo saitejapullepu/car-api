@@ -1,0 +1,1 @@
+[{"isAdmin":true,"_id":"5da36dfb6466a21234a07534","name":"admin","email":"admin@domain.com","__v":0},{"isAdmin":false,"_id":"5da4359957e4a23b187170b8","name":"user1","email":"user1@domain.com","__v":0},{"isAdmin":false,"_id":"5da4365f57e4a23b187170b9","name":"user2","email":"user2@domain.com","__v":0}]

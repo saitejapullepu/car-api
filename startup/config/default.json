@@ -1,0 +1,13 @@
+{
+  "JWT_PRIVATE_KEY": "default"
+}
+{
+  "ENV": {
+    "dev": {
+      "PORT": 3050
+    },
+    "prod": {
+      "PORT": 3060
+    }
+  }
+}
